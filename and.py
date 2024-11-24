@@ -1,1 +1,1 @@
-print("jai shree ram")
+print("jai bajarangbali")
